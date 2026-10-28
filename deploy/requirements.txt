@@ -1,0 +1,5 @@
+python-calamine
+streamlit
+plotly
+pandas
+numpy
